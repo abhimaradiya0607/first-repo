@@ -1,2 +1,2 @@
 # first-repo
-This is the first Repo created while exploring the Git and Github.
+This is the first Repo created while exploring the Git and Github..
